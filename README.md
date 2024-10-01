@@ -3,7 +3,7 @@ my thesis
 
 Quick Start
 ------------
-
+ciao commit
 Clone the repository with the --recursive option to automatically clone submodules:
 
 `git clone --recursive `
